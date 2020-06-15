@@ -14,4 +14,4 @@ Equipo [DESUC](http://sociologia.uc.cl/desuc/quienes-somos-desuc/)
 - Datos para la elaboración del gráfico disponibles [aquí](/inputs/02-imad_2019.xlsx)
 - Código disponible [aquí](/R/02-lineas.R)
 
-![Día 2](outputs/02-lineas-imad_2019.png.png)
+![Día 2](outputs/02-lineas-imad_2019.png)
